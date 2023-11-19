@@ -6,7 +6,7 @@ This Python script demonstrates the use of SpectroChemPy for fitting a Gaussian 
 
 ## Requirements
 
-- [SpectroChemPy](https://www.spectrochempy.org/)
+- [SpectroChemPy](https://www.spectrochempy.fr/stable/index.html)
 - [NumPy](https://numpy.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [SciPy](https://www.scipy.org/)
@@ -31,6 +31,6 @@ This Python script demonstrates the use of SpectroChemPy for fitting a Gaussian 
 ## Installation
 
 For more info Make sure follow the documentation
-[SpectroChemPy Installation Guide](https://www.spectrochempy.fr/stable/gettingstarted/install/install_win.html)
+- [SpectroChemPy Installation Guide](https://www.spectrochempy.fr/stable/gettingstarted/install/install_win.html)
 
 
